@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100');
+body {
+    background-color: #ECEFF1;
+}
+
+.logo {
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+    color: #607D8B;
+    margin-top: 18rem;
+}
+
+.msg {
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+    color: #607D8B;
+    margin-top: 1rem;
+}
